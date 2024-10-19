@@ -5,3 +5,4 @@
 
 
 42 Cursus: Libft
+Final note: 100/100 ✅
